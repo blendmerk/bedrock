@@ -24,10 +24,7 @@
     "forum": "https://discourse.roots.io/category/bedrock"
   },
   "repositories": [
-    {
-      "type": "composer",
-      "url": "https://wpackagist.org"
-    }
+    { "type": "vcs", "url": "git@github.com:blendmerk/bedrock.git" }
   ],
   "require": {
     "php": ">=7.1",
