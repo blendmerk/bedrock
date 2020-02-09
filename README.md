@@ -45,6 +45,9 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 4. Set the document root on your webserver to Bedrock's `web` folder: `/path/to/site/web/`
 5. Access WordPress admin at `https://example.com/wp/wp-admin/`
 
+## Install WP Theme by Sage
+Run php install.php --theme=YOUR-THEMNAME
+
 ## Documentation
 
 Bedrock documentation is available at [https://roots.io/bedrock/docs/](https://roots.io/bedrock/docs/).
