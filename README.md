@@ -46,9 +46,7 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 5. Access WordPress admin at `https://example.com/wp/wp-admin/`
 
 ## Install WP Theme by Sage
-    ```sh
     $ php install.php --theme=YOUR-THEMNAME
-    ```
 
 ## Documentation
 
