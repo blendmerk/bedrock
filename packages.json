@@ -1,0 +1,11 @@
+{
+  "package": {
+    "name": "blendmerk/bedrock",
+    "version": "master",
+    "source": {
+      "url": "https://github.com/blendmerk/bedrock.git",
+      "type": "git",
+      "reference": "master"
+    }
+  }
+}
