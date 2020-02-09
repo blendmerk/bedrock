@@ -26,7 +26,7 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 
 1. Create a new project:
     ```sh
-    $ composer create-project roots/bedrock
+    $ composer create-project blendmer/bedrock
     ```
 2. Update environment variables in the `.env` file. Wrap values that may contain non-alphanumeric characters with quotes, or they may be incorrectly parsed.
   * Database variables
